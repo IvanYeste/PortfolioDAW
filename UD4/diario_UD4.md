@@ -1,13 +1,13 @@
-# Tema3 : Apache
+# Tema 4 : TRABAJO EN REMOTO
 
 * Que he aprendido:
-  >He aprendido a instalar apache y como crear una pagina web en el localhost.
+  >He aprendido un poco mas sobre ssh y comandos en la terminal de ubuntu.
   
 * Que no entiendo:
-  >La verdad esque me ha quedado todo claro en este tema no tengo ninguna duda.
+  >todavia me cuesta un poco trabajar con la terminal y algunos comandos no los termino de entender.
   
 * Qué es lo que más me ha gustado y qué es lo que menos:
-  > Lo que mas me ha gustado a sido aprender a instalar y utilizar apache. Lo que menos ha sido utilizar la terminal de ubuntu para ello, no estoy acostumbrado a trabajar con ella y no me ha gustado nada.
+  > Lo que mas me ha gustado ha sido trabajar en equipo, porque me ha ayudado a entender un poco  mas la terminal gracias a mi compañero. No tengo nada que no me haya gustado.
   
 * Qué más me gustaría saber relacionado con la Unidad:
-  >Me hubiese gustado ver para que se utiliza apache en el dia a dia de un informatico y en la industria en general.
+  >Me hubiese gustado ver aparte de pasarle archivos a el servidor, hacer algo mas en el.
